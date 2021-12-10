@@ -12,21 +12,23 @@ https://www.figma.com/proto/JolHcQyd8un3u9IRekxsgV/Learn%40Home-CM?node-id=118%3
 Mobile version :
 https://www.figma.com/proto/JolHcQyd8un3u9IRekxsgV/Learn%40Home-CM?node-id=118%3A2428&scaling=scale-down&page-id=118%3A2427&starting-point-node-id=118%3A2428&show-proto-sidebar=1
 
--
+______
 
 KANBAN:
+
 https://glitter-weeder-932.notion.site/Dev4U-projet-Learn-Home-d87200d23e6c42648891ed96ea4f59a1
 
--
+______
 
 USES CASES:
 
 Use Case Authentification:
 https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Use_Case%20Authentification.jpg
 
-______
+-
 
 TEACHER:
+
 Use Case 1 - TODO List:
 https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_1-TODO_List.jpg
 
@@ -36,9 +38,10 @@ https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_2-U
 Use Case 3 - Chat:
 https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_3-Chat.jpg
 
-______
+-
 
 STUDENT:
+
 Use Case 1 - TODO List:
 https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_1-TODO_List.jpg
 
@@ -48,7 +51,7 @@ https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_2-U
 Use Case 3 - Chat:
 https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_3-Chat.jpg
 
--
+______
 
 USER STORIES:
 
