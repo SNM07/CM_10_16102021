@@ -29,7 +29,7 @@ USES CASES:
 
 Use Case Authentification:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Use_Case%20Authentification.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Use_Case%20Authentification%20(corrig%C3%A9).jpg
 
 -
 
@@ -37,15 +37,15 @@ TEACHER:
 
 Use Case 1 - TODO List:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_1-TODO_List.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Teacher-Use_Case_1-TODO_List%20(corrig%C3%A9).jpg
 
 Use Case 2 - Évènements à venir:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_2-Upcoming_Events.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Teacher-Use_Case_2-Upcoming_Events%20(corrig%C3%A9).jpg
 
 Use Case 3 - Chat:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Teacher-Use_Case_3-Chat.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Teacher-Use_Case_3-Chat%20(corrig%C3%A9).jpg
 
 -
 
@@ -53,15 +53,15 @@ STUDENT:
 
 Use Case 1 - TODO List:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_1-TODO_List.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Student-Use_Case_1-TODO_List%20(corrig%C3%A9).jpg
 
 Use Case 2 - Évènements à venir:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_2-Upcoming_Events.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Student-Use_Case_2-Upcoming_Events%20(corrig%C3%A9).jpg
 
 Use Case 3 - Chat:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/Student-Use_Case_3-Chat.jpg
+https://github.com/SNM07/CM_10_16102021/blob/main/Use_Cases/corrections%20post%20soutenance/Student-Use_Case_3-Chat%20(corrig%C3%A9).jpg
 
 ______
 
@@ -73,8 +73,8 @@ https://github.com/SNM07/CM_10_16102021/blob/main/User_Stories/Parcours_utilisat
 
 User Stories Teacher:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/User_Stories/User%20Story%20Parcours%20Professeur-.pdf
+https://github.com/SNM07/CM_10_16102021/blob/main/User_Stories/corrections%20post%20soutenance/User%20Story%20Parcours%20Professeur%20(corrig%C3%A9).pdf
 
 User Stories Student:
 
-https://github.com/SNM07/CM_10_16102021/blob/main/User_Stories/User%20Story%20Parcours%20El%C3%A8ve-.pdf
+https://github.com/SNM07/CM_10_16102021/blob/main/User_Stories/corrections%20post%20soutenance/User%20Story%20Parcours%20El%C3%A8ve%20(corrig%C3%A9).pdf
